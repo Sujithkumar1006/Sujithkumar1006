@@ -1,4 +1,4 @@
-👋 Hi, I'm Sujith Kumar Thankaraj
+👋 **Hi, I'm Sujith Kumar Thankaraj**
 I’m a Full-Stack Software Engineer with 4+ years of experience building performant, scalable fintech and web applications using modern web technologies. I specialize in React, Ruby on Rails, TypeScript, Node.js, and AWS, with experience spanning frontend UI systems, backend API development, cloud infrastructure, and CI/CD workflows.
 
 🛠️ Tech Stack
