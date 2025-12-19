@@ -33,6 +33,9 @@
 
 ## 💼 Experience
 
+### 🏢 Software Engineer @ Wein Law Firm
+Buliding legal platforms using **React** and **Ruby on Rails**, focusing on redicuing manual work, faster turn around time and easier decision making.
+
 ### 🏢 Senior Software Engineer @ Yubi (CredAvenue)
 Built fintech platforms using **React** and **Ruby on Rails**, focusing on user experience, performance, and scalability in cloud environments.
 
@@ -43,7 +46,7 @@ Contributed to full-stack web applications across various domains using modern J
 
 ## 🎓 Education
 
-🎓 **M.S. in Computer Science**, Binghamton University, SUNY (Expected Dec 2025)  
+🎓 **M.S. in Computer Science**, Binghamton University, SUNY (2025)  
 🎓 **B.Tech in Information Technology**, Bannari Amman Institute of Technology (2020)
 
 ---
